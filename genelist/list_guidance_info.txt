@@ -1,0 +1,278 @@
+# note: the following genes were excluded from the list
+# due to a lack of ID match between the FlyBase IDs used
+# in the DamID analyses and the IDs extracted subsequently
+# from FlyBase using "neuron projection guidance":
+# limb, diva, alf, roam, and rambl
+SUBMITTED ID	FBID_KEY	ANNOTATION_SYMBOL	NAME	SYMBOL
+FBgn0000017	FBgn0000017	CG4032	Abl tyrosine kinase	Abl
+FBgn0000028	FBgn0000028	CG9151	abnormal chemosensory jump 6	acj6
+FBgn0000212	FBgn0000212	CG5942	brahma	brm
+FBgn0000229	FBgn0000229	CG5680	basket	bsk
+FBgn0000239	FBgn0000239	CG9242	burgundy	bur
+FBgn0000253	FBgn0000253	CG8472	Calmodulin	Cam
+FBgn0000307	FBgn0000307	CG5813	chiffon	chif
+FBgn0000308	FBgn0000308	CG9553	chickadee	chic
+FBgn0000320	FBgn0000320	CG9554	eyes absent	eya
+FBgn0000411	FBgn0000411	CG5893	Dichaete	D
+FBgn0000414	FBgn0000414	CG9695	Disabled	Dab
+FBgn0000464	FBgn0000464	CG10443	Leukocyte-antigen-related-like	Lar
+FBgn0000499	FBgn0000499	CG18361	dishevelled	dsh
+FBgn0000504	FBgn0000504	CG11094	doublesex	dsx
+FBgn0000577	FBgn0000577	CG9015	engrailed	en
+FBgn0000578	FBgn0000578	CG15112	enabled	ena
+FBgn0000581	FBgn0000581	CG7776	Enhancer of Polycomb	E(Pc)
+FBgn0000606	FBgn0000606	CG2328	even skipped	eve
+FBgn0000629	FBgn0000629	CG6502	Enhancer of zeste	E(z)
+FBgn0000635	FBgn0000635	CG3665	Fasciclin 2	Fas2
+FBgn0000636	FBgn0000636	CG5803	Fasciclin 3	Fas3
+FBgn0000719	FBgn0000719	CG9559	folded gastrulation	fog
+FBgn0000721	FBgn0000721	CG10033	foraging	for
+FBgn0000723	FBgn0000723	CG8874	FER tyrosine kinase	FER
+FBgn0001085	FBgn0001085	CG17697	frizzled	fz
+FBgn0001114	FBgn0001114	CG9280	Glutactin	Glt
+FBgn0001138	FBgn0001138	CG9656	grain	grn
+FBgn0001150	FBgn0001150	CG7952	giant	gt
+FBgn0001250	FBgn0001250	CG9623	inflated	if
+FBgn0001308	FBgn0001308	CG7765	Kinesin heavy chain	Khc
+FBgn0001325	FBgn0001325	CG3340	Kruppel	Kr
+FBgn0001404	FBgn0001404	CG9659	egghead	egh
+FBgn0001965	FBgn0001965	CG7793	Son of sevenless	Sos
+FBgn0002023	FBgn0002023	CG10699	Lim3	Lim3
+FBgn0002306	FBgn0002306	CG2507	stranded at second	sas
+FBgn0002526	FBgn0002526	CG10236	Laminin A	LanA
+FBgn0002543	FBgn0002543	CG5481	roundabout 2	robo2
+FBgn0002565	FBgn0002565	CG6806	Larval serum protein 2	Lsp2
+FBgn0002573	FBgn0002573	CG32120	senseless	sens
+FBgn0002873	FBgn0002873	CG12047	mushroom body defect	mud
+FBgn0003053	FBgn0003053	CG12212	pebbled	peb
+FBgn0003090	FBgn0003090	CG11084	prickle	pk
+FBgn0003169	FBgn0003169	CG7904	punt	put
+FBgn0003204	FBgn0003204	CG1799	raspberry	ras
+FBgn0003300	FBgn0003300	CG1849	runt	run
+FBgn0003312	FBgn0003312	CG14728	shadow	sad
+FBgn0003435	FBgn0003435	CG9218	smooth	sm
+FBgn0003444	FBgn0003444	CG11561	smoothened	smo
+FBgn0003495	FBgn0003495	CG6134	spatzle	spz
+FBgn0003888	FBgn0003888	CG3401	beta-Tubulin at 60D	betaTub60D
+FBgn0003892	FBgn0003892	CG2411	patched	ptc
+FBgn0003896	FBgn0003896	CG10619	tailup	tup
+FBgn0004055	FBgn0004055	CG3533	unzipped	uzip
+FBgn0004103	FBgn0004103	CG5650	Protein phosphatase 1 at 87B	Pp1-87B
+FBgn0004108	FBgn0004108	CG9704	Neurotactin	Nrt
+FBgn0004198	FBgn0004198	CG11387	cut	ct
+FBgn0004368	FBgn0004368	CG6899	Protein tyrosine phosphatase 4E	Ptp4E
+FBgn0004369	FBgn0004369	CG11516	Protein tyrosine phosphatase 99A	Ptp99A
+FBgn0004370	FBgn0004370	CG1817	Protein tyrosine phosphatase 10D	Ptp10D
+FBgn0004380	FBgn0004380	CG10642	Kinesin-like protein at 64D	Klp64D
+FBgn0004435	FBgn0004435	CG17759	G protein alpha q subunit	Galphaq
+FBgn0004449	FBgn0004449	CG5723	Tenascin major	Ten-m
+FBgn0004456	FBgn0004456	CG1771	multiple edematous wings	mew
+FBgn0004595	FBgn0004595	CG17228	prospero	pros
+FBgn0004606	FBgn0004606	CG1322	Zn finger homeodomain 1	zfh1
+FBgn0004647	FBgn0004647	CG3936	Notch	N
+FBgn0004652	FBgn0004652	CG14307	fruitless	fru
+FBgn0004657	FBgn0004657	CG1560	myospheroid	mys
+FBgn0004795	FBgn0004795	CG5403	retained	retn
+FBgn0004839	FBgn0004839	CG8967	off-track	otk
+FBgn0004885	FBgn0004885	CG6863	tolkin	tok
+FBgn0004926	FBgn0004926	CG4153	eukaryotic translation initiation factor 2 subunit beta	eIF-2beta
+FBgn0005631	FBgn0005631	CG13521	roundabout 1	robo1
+FBgn0005636	FBgn0005636	CG3385	nervy	nvy
+FBgn0005677	FBgn0005677	CG4952	dachshund	dac
+FBgn0010105	FBgn0010105	CG17943	commissureless	comm
+FBgn0010194	FBgn0010194	CG6407	Wnt oncogene analog 5	Wnt5
+FBgn0010303	FBgn0010303	CG4353	hemipterous	hep
+FBgn0010333	FBgn0010333	CG2248	Rac1	Rac1
+FBgn0010341	FBgn0010341	CG12530	Cdc42	Cdc42
+FBgn0010415	FBgn0010415	CG10497	Syndecan	Sdc
+FBgn0010452	FBgn0010452	CG11280	tartan	trn
+FBgn0010453	FBgn0010453	CG4698	Wnt oncogene analog 4	Wnt4
+FBgn0010473	FBgn0010473	CG15427	turtle	tutl
+FBgn0010504	FBgn0010504	CG11546	kermit	kermit
+FBgn0010583	FBgn0010583	CG3727	dreadlocks	dock
+FBgn0010768	FBgn0010768	CG5557	squeeze	sqz
+FBgn0011259	FBgn0011259	CG18405	Semaphorin 1a	Sema-1a
+FBgn0011260	FBgn0011260	CG4700	Semaphorin 2a	Sema-2a
+FBgn0011300	FBgn0011300	CG8224	baboon	babo
+FBgn0011592	FBgn0011592	CG8581	frazzled	fra
+FBgn0011655	FBgn0011655	CG1775	Medea	Med
+FBgn0011661	FBgn0011661	CG10701	Moesin	Moe
+FBgn0011715	FBgn0011715	CG1064	Snf5-related 1	Snr1
+FBgn0011722	FBgn0011722	CG11527	Tiggrin	Tig
+FBgn0013433	FBgn0013433	CG4846	beaten path Ia	beat-Ia
+FBgn0013733	FBgn0013733	CG18076	short stop	shot
+FBgn0013762	FBgn0013762	CG8203	Cyclin-dependent kinase 5	Cdk5
+FBgn0013764	FBgn0013764	CG3924	Chip	Chi
+FBgn0014007	FBgn0014007	CG10975	Protein tyrosine phosphatase 69D	Ptp69D
+FBgn0014011	FBgn0014011	CG8556	Rac2	Rac2
+FBgn0014020	FBgn0014020	CG8416	Rho1	Rho1
+FBgn0014133	FBgn0014133	CG1822	bifocal	bif
+FBgn0014141	FBgn0014141	CG3937	cheerio	cher
+FBgn0014179	FBgn0014179	CG12245	glial cells missing	gcm
+FBgn0014343	FBgn0014343	CG10601	mirror	mirr
+FBgn0015296	FBgn0015296	CG3715	SHC-adaptor protein	Shc
+FBgn0015380	FBgn0015380	CG17348	derailed	drl
+FBgn0015550	FBgn0015550	CG7659	target of Poxn	tap
+FBgn0015609	FBgn0015609	CG7100	Cadherin-N	CadN
+FBgn0015754	FBgn0015754	CG8440	Lissencephaly-1	Lis-1
+FBgn0015773	FBgn0015773	CG18657	Netrin-A	NetA
+FBgn0015774	FBgn0015774	CG10521	Netrin-B	NetB
+FBgn0015797	FBgn0015797	CG6601	Rab6	Rab6
+FBgn0015805	FBgn0015805	CG7471	Histone deacetylase 1	Rpd3
+FBgn0015838	FBgn0015838	CG8075	Van Gogh	Vang
+FBgn0016059	FBgn0016059	CG6446	Semaphorin 1b	Sema-1b
+FBgn0016061	FBgn0016061	CG31062	sidestep	side
+FBgn0016797	FBgn0016797	CG9739	frizzled 2	fz2
+FBgn0016977	FBgn0016977	CG18497	split ends	spen
+FBgn0016997	FBgn0016997	-	limbo	limbo
+FBgn0017407	FBgn0017407	-	divagari	diva
+FBgn0020238	FBgn0020238	CG31196	14-3-3epsilon	14-3-3epsilon
+FBgn0020294	FBgn0020294	CG10573	knockout	ko
+FBgn0020306	FBgn0020306	CG9696	domino	dom
+FBgn0020391	FBgn0020391	CG4007	Neurospecific receptor kinase	Nrk
+FBgn0020493	FBgn0020493	CG5201	Daughters against dpp	Dad
+FBgn0020510	FBgn0020510	CG9749	Abelson interacting protein	Abi
+FBgn0020609	FBgn0020609	-	aloof	alf
+FBgn0021760	FBgn0021760	CG32435	chromosome bows	chb
+FBgn0021796	FBgn0021796	CG5092	Target of rapamycin	Tor
+FBgn0022382	FBgn0022382	CG15862	Protein kinase, cAMP-dependent, regulatory subunit type 2	Pka-R2
+FBgn0023095	FBgn0023095	CG11282	capricious	caps
+FBgn0023169	FBgn0023169	CG3051	AMP-activated protein kinase alpha subunit	AMPKalpha
+FBgn0024245	FBgn0024245	CG17559	doughnut on 2	dnt
+FBgn0024277	FBgn0024277	CG18214	trio	trio
+FBgn0024600	FBgn0024600	-	roaming	roam
+FBgn0024601	FBgn0024601	-	rambling	rambl
+FBgn0024836	FBgn0024836	CG11895	starry night	stan
+FBgn0025641	FBgn0025641	CG14622	Dishevelled Associated Activator of Morphogenesis	DAAM
+FBgn0025716	FBgn0025716	CG6546	Brahma associated protein 55kD	Bap55
+FBgn0025740	FBgn0025740	CG17245	Plexin B	PlexB
+FBgn0025741	FBgn0025741	CG11081	Plexin A	PlexA
+FBgn0025800	FBgn0025800	CG2262	Smad on X	Smox
+FBgn0025936	FBgn0025936	CG1511	Eph receptor tyrosine kinase	Eph
+FBgn0026402	FBgn0026402	CG8980	Nuclear inhibitor of Protein phosphatase 1	NiPp1
+FBgn0027491	FBgn0027491	CG5387	Cdk5 activator-like protein	Cdk5alpha
+FBgn0027948	FBgn0027948	CG5000	mini spindles	msps
+FBgn0028371	FBgn0028371	CG30092	jitterbug	jbug
+FBgn0028482	FBgn0028482	CG16857	borderless	bdl
+FBgn0028500	FBgn0028500	CG9063	RIC1 homolog	Rich
+FBgn0028644	FBgn0028644	CG4838	beaten path Ic	beat-Ic
+FBgn0028645	FBgn0028645	CG7644	beaten path Ib	beat-Ib
+FBgn0028734	FBgn0028734	CG6203	Fmr1	Fmr1
+FBgn0028999	FBgn0028999	CG13906	nervous fingers 1	nerfin-1
+FBgn0029123	FBgn0029123	CG18024	SoxNeuro	SoxN
+FBgn0029840	FBgn0029840	CG4320	raptor	raptor
+FBgn0029903	FBgn0029903	CG4532	pod1 coronin	pod1
+FBgn0029905	FBgn0029905	CG3075	Nuclear factor Y-box C	Nf-YC
+FBgn0030057	FBgn0030057	CG12108	Palmitoyl-protein thioesterase 1	Ppt1
+FBgn0030090	FBgn0030090	CG12664	forked end	fend
+FBgn0030887	FBgn0030887	CG6867	-	CG6867
+FBgn0030941	FBgn0030941	CG6531	wengen	wgn
+FBgn0031375	FBgn0031375	CG31670	earmuff	erm
+FBgn0031461	FBgn0031461	CG16987	dawdle	daw
+FBgn0031604	FBgn0031604	CG15433	Elongator complex protein 3	Elp3
+FBgn0032629	FBgn0032629	CG15138	beaten path IIIc	beat-IIIc
+FBgn0032651	FBgn0032651	CG5545	Olig family	Oli
+FBgn0032821	FBgn0032821	CG10538	Cd GTPase activating protein-related	CdGAPr
+FBgn0033159	FBgn0033159	CG17800	Down syndrome cell adhesion molecule 1	Dscam1
+FBgn0033438	FBgn0033438	CG1794	Matrix metalloproteinase 2	Mmp2
+FBgn0033791	FBgn0033791	CG3915	Derailed 2	Drl-2
+FBgn0033987	FBgn0033987	CG12424	caskin	ckn
+FBgn0034012	FBgn0034012	CG16801	Hormone receptor 51	Hr51
+FBgn0034013	FBgn0034013	CG8166	unc-5	unc-5
+FBgn0034072	FBgn0034072	CG18250	Dystroglycan	Dg
+FBgn0034085	FBgn0034085	CG18243	Protein tyrosine phosphatase 52F	Ptp52F
+FBgn0034476	FBgn0034476	CG8595	Toll-7	Toll-7
+FBgn0035379	FBgn0035379	CG9972	spatzle 5	spz5
+FBgn0035574	FBgn0035574	CG32239	Rho guanine nucleotide exchange factor at 64C	RhoGEF64C
+FBgn0035713	FBgn0035713	CG10107	veloren	velo
+FBgn0036494	FBgn0036494	CG7250	Toll-6	Toll-6
+FBgn0037240	FBgn0037240	CG1084	Contactin	Cont
+FBgn0038084	FBgn0038084	CG14390	beaten path Vc	beat-Vc
+FBgn0038087	FBgn0038087	CG10134	beaten path Va	beat-Va
+FBgn0038092	FBgn0038092	CG31298	beaten path Vb	beat-Vb
+FBgn0038300	FBgn0038300	CG4203	Mau2 sister chromatid cohesion factor	CG4203
+FBgn0038320	FBgn0038320	CG4931	Cytoplasmic FMR1 interacting protein	Sra-1
+FBgn0038494	FBgn0038494	CG4135	beaten path IIb	beat-IIb
+FBgn0038498	FBgn0038498	CG14334	beaten path IIa	beat-IIa
+FBgn0038853	FBgn0038853	CG3421	Rho GTPase activating protein at 93B	RhoGAP93B
+FBgn0039089	FBgn0039089	CG10152	beaten path IV	beat-IV
+FBgn0039132	FBgn0039132	CG5864	Adaptor Protein complex 1, sigma subunit	AP-1sigma
+FBgn0039338	FBgn0039338	CG4548	XNP	XNP
+FBgn0039584	FBgn0039584	CG14064	beaten path VI	beat-VI
+FBgn0039617	FBgn0039617	CG14521	Dpr-interacting protein gamma	DIP-gamma
+FBgn0039883	FBgn0039883	CG1976	Rho GTPase activating protein at 100F	RhoGAP100F
+FBgn0040068	FBgn0040068	CG7893	Vav guanine nucleotide exchange factor	Vav
+FBgn0040271	FBgn0040271	CG6725	Sulfated	Sulf1
+FBgn0040324	FBgn0040324	CG1862	Ephrin	Ephrin
+FBgn0040505	FBgn0040505	CG8250	Anaplastic lymphoma kinase	Alk
+FBgn0041097	FBgn0041097	CG5423	roundabout 3	robo3
+FBgn0041160	FBgn0041160	CG7554	comm2	comm2
+FBgn0041191	FBgn0041191	CG1081	Ras homolog enriched in brain	Rheb
+FBgn0041604	FBgn0041604	CG32146	dally-like	dlp
+FBgn0041781	FBgn0041781	CG4636	SCAR	SCAR
+FBgn0046704	FBgn0046704	CG11199	Liprin-alpha	Liprin-alpha
+FBgn0051352	FBgn0051352	CG31352	Uncoordinated 115a	Unc-115a
+FBgn0051721	FBgn0051721	CG31721	Tripartite motif containing 9	Trim9
+FBgn0052227	FBgn0052227	CG32227	golden goal	gogo
+FBgn0053179	FBgn0053179	CG33179	beaten path IIIb	beat-IIIb
+FBgn0053202	FBgn0053202	CG33202	defective proboscis extension response 11	dpr11
+FBgn0053208	FBgn0053208	CG33208	Molecule interacting with CasL	Mical
+FBgn0085430	FBgn0085430	CG34401	-	CG34401
+FBgn0086655	FBgn0086655	CG9397	jing	jing
+FBgn0086677	FBgn0086677	CG30040	jelly belly	jeb
+FBgn0086680	FBgn0086680	CG10037	ventral veins lacking	vvl
+FBgn0243511	FBgn0243511	CG4845	phagocyte signaling impaired	psidin
+FBgn0250753	FBgn0250753	CG2922	krasavietz	kra
+FBgn0250788	FBgn0250788	CG5870	beta Spectrin	beta-Spec
+FBgn0250789	FBgn0250789	CG1977	alpha Spectrin	alpha-Spec
+FBgn0250820	FBgn0250820	CG5802	medial glomeruli	meigo
+FBgn0259174	FBgn0259174	CG42279	Nedd4	Nedd4
+FBgn0259236	FBgn0259236	CG42334	comm3	comm3
+FBgn0259749	FBgn0259749	CG9535	mummy	mmy
+FBgn0259984	FBgn0259984	CG7147	kuzbanian	kuz
+FBgn0260660	FBgn0260660	CG42543	Multiplexin	Mp
+FBgn0261046	FBgn0261046	CG31190	Down syndrome cell adhesion molecule 3	Dscam3
+FBgn0261269	FBgn0261269	CG8561	convoluted	conv
+FBgn0261458	FBgn0261458	CG33979	capulet	capt
+FBgn0261509	FBgn0261509	CG14351	hattifattener	haf
+FBgn0261526	FBgn0261526	CG42576	Neurotrophin 1	NT1
+FBgn0261563	FBgn0261563	CG42677	wing blister	wb
+FBgn0261588	FBgn0261588	CG42698	pou domain motif 3	pdm3
+FBgn0261723	FBgn0261723	CG42234	Dbx	Dbx
+FBgn0261822	FBgn0261822	CG31605	Basigin	Bsg
+FBgn0261963	FBgn0261963	CG6634	midline	mid
+FBgn0261985	FBgn0261985	CG1228	Protein tyrosine phosphatase Meg	Ptpmeg
+FBgn0262018	FBgn0262018	CG42829	Cadherin-N2	CadN2
+FBgn0262733	FBgn0262733	CG7524	Src oncogene at 64B	Src64B
+FBgn0263120	FBgn0263120	CG8732	Acyl-CoA synthetase long-chain	Acsl
+FBgn0263219	FBgn0263219	CG42330	Down syndrome cell adhesion molecule 4	Dscam4
+FBgn0263391	FBgn0263391	CG43443	hu li tai shao	hts
+FBgn0263930	FBgn0263930	CG4974	division abnormally delayed	dally
+FBgn0264006	FBgn0264006	CG43749	dyschronic	dysc
+FBgn0264089	FBgn0264089	CG43758	slit	sli
+FBgn0264273	FBgn0264273	CG33960	Semaphorin 2b	Sema-2b
+FBgn0264442	FBgn0264442	CG43860	abrupt	ab
+FBgn0264959	FBgn0264959	CG44128	Src oncogene at 42A	Src42A
+FBgn0264975	FBgn0264975	CG1634	Neuroglian	Nrg
+FBgn0265002	FBgn0265002	CG44153	-	CG44153
+FBgn0265296	FBgn0265296	CG42256	Down syndrome cell adhesion molecule 2	Dscam2
+FBgn0265607	FBgn0265607	CG12621	beaten path IIIa	beat-IIIa
+FBgn0265974	FBgn0265974	CG10117	tout-velu	ttv
+FBgn0266136	FBgn0266136	CG42636	Guanylyl cyclase at 76C	Gyc76C
+FBgn0266557	FBgn0266557	CG3696	kismet	kis
+FBgn0266599	FBgn0266599	CG4264	Heat shock protein cognate 4	Hsc70-4
+FBgn0266674	FBgn0266674	CG7034	Secretory 15	Sec15
+FBgn0267001	FBgn0267001	CG42338	Tenascin accessory	Ten-a
+FBgn0267376	FBgn0267376	CG6584	Selenoprotein R	SelR
+FBgn0267487	FBgn0267487	CG9181	Protein tyrosine phosphatase 61F	Ptp61F
+FBgn0267698	FBgn0267698	CG10295	p21-activated kinase	Pak
+FBgn0267978	FBgn0267978	CG8376	apterous	ap
+FBgn0283472	FBgn0283472	CG10539	Ribosomal protein S6 kinase	S6k
+FBgn0283499	FBgn0283499	CG18402	Insulin-like receptor	InR
+FBgn0283500	FBgn0283500	CG9128	Sac1 phosphatase	Sac1
+FBgn0283521	FBgn0283521	CG12052	longitudinals lacking	lola
+FBgn0284221	FBgn0284221	CG5661	Semaphorin 5c	Sema-5c
+FBgn0284408	FBgn0284408	CG33950	terribly reduced optic lobes	trol
+FBgn0285917	FBgn0285917	CG5580	scribbler	sbb
+FBgn0285925	FBgn0285925	CG6588	Fasciclin 1	Fas1
+FBgn0286785	FBgn0286785	CG8095	scab	scb
